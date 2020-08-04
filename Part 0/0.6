@@ -1,0 +1,19 @@
+title Create note in Single page app
+
+note over Browser :
+User input note and click on Save
+end note
+
+note over Browser :
+Browser  executes event handler that re-renders notes to display
+end note
+
+Browser -> Server :HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+note over Server :
+server saves new note
+end note
+Server-> Browser : HTTP Status 201 : {"message":"note created"}
+
+note over Browser  :
+server response is logged in console
+end note
