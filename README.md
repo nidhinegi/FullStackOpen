@@ -5,5 +5,5 @@ Part0 : Fundamental of Webapps
 
 Part 1: Introduction to React
 
-Hot fix changes done
+Hot fix changes
 
