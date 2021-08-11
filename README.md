@@ -5,5 +5,5 @@ Part0 : Fundamental of Webapps
 
 Part 1: Introduction to React
 
-Updating the readme file to check changes
+Hot fix changes1
 
